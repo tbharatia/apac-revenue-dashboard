@@ -1,4 +1,4 @@
-# APAC Revenue Intelligence Dashboard
+# APAC Revenue Dashboard
 
 ## Project Overview
 
